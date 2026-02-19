@@ -37,23 +37,16 @@ Stop wasting time on easy practice. Our engine analyzes your syllabus to generat
 ---
 
 ## 🛠 Tech Stack & SEO Moat
-* **Frontend:** Next.js, Tailwind CSS (Fermi Design System)
+* **Frontend:** Flutter
 * **AI Models:** Fine-tuned for LaTeX and Mathematical reasoning.
 * **Keywords:** #StudyAI #TutorAI #STEM #JEE #NEET #ExamPrep
 
----
 
-## 📈post-Launch Roadmap (March 2026)
-- [ ] **Phase 1:** Launch on Product Hunt (Feb 24).
-- [ ] **Phase 2:** Release `/mind-grasp-alternative` comparison pages.
-- [ ] **Phase 3:** Roll out specialized STEM video explainers.
-
----
 
 ## 🤝 Connect & Support
 * **Website:** [studyhelper.io](https://studyhelper.io)
 * **PH Launch Page:** [studyhelper.io/product-hunt](https://studyhelper.io/product-hunt)
-* **Twitter:** [@StudyHelper_io](#)
+* **Twitter:** [@CrazzyAlim](https://x.com/CrazzyAlim)
 
 ---
 *Built for students who need more than just a chat bot. Start understanding with the best **Study AI**.*
