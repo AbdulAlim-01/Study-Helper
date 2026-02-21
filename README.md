@@ -1,4 +1,4 @@
-# 🎓 StudyHelper.io | The STEM-First AI Tutor
+# 🎓 Study Helper| The STEM-First AI Tutor
 
 [![Product Hunt](https://img.shields.io/badge/Product%20Hunt-Launched-da552f?style=for-the-badge&logo=producthunt)](https://www.producthunt.com/products/study-helper-ai)
 [![SEO Keywords](https://img.shields.io/badge/Focus-Study%20AI%20%7C%20Tutor%20AI-2563EB?style=for-the-badge)](https://studyhelper.io)
