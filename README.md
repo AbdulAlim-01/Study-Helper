@@ -1,6 +1,6 @@
 # 🎓 StudyHelper.io | The STEM-First AI Tutor
 
-[![Product Hunt](https://img.shields.io/badge/Product%20Hunt-Launched-da552f?style=for-the-badge&logo=producthunt)](https://studyhelper.io/product-hunt)
+[![Product Hunt](https://img.shields.io/badge/Product%20Hunt-Launched-da552f?style=for-the-badge&logo=producthunt)](https://www.producthunt.com/products/study-helper-ai)
 [![SEO Keywords](https://img.shields.io/badge/Focus-Study%20AI%20%7C%20Tutor%20AI-2563EB?style=for-the-badge)](https://studyhelper.io)
 [![Accuracy](https://img.shields.io/badge/STEM%20Accuracy-99.8%25-green?style=for-the-badge)](https://studyhelper.io)
 
@@ -45,7 +45,7 @@ Stop wasting time on easy practice. Our engine analyzes your syllabus to generat
 
 ## 🤝 Connect & Support
 * **Website:** [studyhelper.io](https://studyhelper.io)
-* **PH Launch Page:** [studyhelper.io/product-hunt](https://studyhelper.io/product-hunt)
+* **PH Launch Page:** [studyhelper.io/product-hunt](https://www.producthunt.com/products/study-helper-ai)
 * **Twitter:** [@CrazzyAlim](https://x.com/CrazzyAlim)
 
 ---
